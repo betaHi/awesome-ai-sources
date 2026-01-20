@@ -24,6 +24,7 @@ Focused on signal over noise.
 - [Sebastian Raschka's Magazine](https://magazine.sebastianraschka.com/) - AI research and practical insights
 - [Armin Ronacher's Thoughts](https://lucumr.pocoo.org/) - Technical perspectives from Flask creator
 - [Philipp Schmid](https://www.philschmid.de/) - ML engineering and NLP expert
+- [Geoffrey Huntley](https://ghuntley.com/) - Software engineering and AI notes
 - [iHower's Blog](https://ihower.tw/blog/posts) - Tech insights (Chinese)
 - [Abhishek Vijay Kumar](https://abvijaykumar.medium.com/) - AI/ML on Medium
 
